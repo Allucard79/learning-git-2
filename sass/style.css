@@ -30,6 +30,12 @@ body {
   font-family: "Indie Flower", cursive;
 }
 
+.container h3 {
+  padding: 20px;
+  font-size: 60px;
+  font-family: "Indie Flower", cursive;
+}
+
 .container p {
   font-family: "Shadows Into Light", cursive;
   font-size: 20px;
